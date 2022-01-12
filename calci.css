@@ -1,0 +1,98 @@
+.heading{
+    margin-top: 150px;
+    margin-left: 43%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 50px;
+    color: black;
+    width: 15%;
+}
+.heading:hover{
+    background-color: white;
+    color: black;
+}
+.outer{
+    height: 280px;
+    width: 30%;
+    border: 3px solid black;
+    margin-left: 35%;
+    box-shadow: 10px 10px 4px gray;
+}
+.outer:hover{
+    transform: scale(1.2);
+}
+.inputs{
+    height: 100px;
+}
+.first{
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 45%;
+    height:40px;
+    border: 1px solid gray;
+}
+.second{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 45%;
+    height:40px;
+    border: 1px solid gray;
+}
+.operators{
+    margin-top: 20px;
+    height: 120px;
+}
+.add{
+    margin-top: 10px;
+    margin-left: 70px;
+    height: 40px;
+    width: 20%;
+    background-color:black ;
+    color: aliceblue;
+}
+.add:hover{
+    transform: scale(1.1);
+}
+.sub{
+    margin-top: 10px;
+    margin-left: 120px;
+    height: 40px;
+    width: 20%;
+    background-color:black ;
+    color: aliceblue;}
+.sub:hover{
+    transform: scale(1.1);
+}
+.mul{
+    margin-top: 10px;
+    margin-left: 70px;
+    height: 40px;
+    width: 20%;
+    background-color:black ;
+    color: aliceblue;}
+.mul:hover{
+    transform: scale(1.1);
+}
+.div{
+    margin-top: 10px;
+    margin-left: 120px;
+    height: 40px;
+    width: 20%;
+    background-color:black ;
+    color: aliceblue;}
+.div:hover{
+    transform: scale(1.1);
+}
+.mod{
+    margin-top: 10px;
+    margin-left: 178px;
+    height: 40px;
+    width: 20%;
+    background-color:black ;
+    color: aliceblue;}
+.mod:hover{
+    transform: scale(1.1);
+}
+.output{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: saddlebrown;
+}
